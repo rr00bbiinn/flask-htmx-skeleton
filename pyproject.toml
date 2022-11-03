@@ -8,6 +8,7 @@ license = "MIT"
 [tool.poetry.dependencies]
 python = "^3.9"
 dependency-injector = "^4.40.0"
+Flask = "^2.2.2"
 
 [tool.poetry.dev-dependencies]
 isort = "^5.10.1"
